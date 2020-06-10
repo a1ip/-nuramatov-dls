@@ -1,2 +1,1 @@
-# dls_mipt
-xd
+# Deep Learning School MIPT
